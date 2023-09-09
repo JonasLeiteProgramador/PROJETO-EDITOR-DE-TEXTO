@@ -1,0 +1,36 @@
+    <!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minhas Anotações</title>
+    <link rel="icon" href="/Assets/nota (1).png" type="image/x-icon">
+    <link rel="stylesheet" href="CSS/style.css">
+</head>
+<body>
+    <header>
+        <img src="/Assets/nota (1).png" width="60px" height="60px" alt="Logo">
+        <h1>Minhas Anotações</h1>
+    </header>
+    <main>
+        <div class="formulario-entrada">
+            <textarea id="entrada-texto" placeholder="Escreva sua entrada aqui..."></textarea>
+            <div class="container-botoes">
+                <button id="botao-salvar">Salvar</button>
+                <button id="botao-editar" disabled>Editar</button>
+                <button id="botao-excluir" disabled>Excluir</button>
+                <button id="botao-baixar">Baixar</button>
+            </div>
+        </div>
+        <div class="entradas">
+            <h2>Suas Anotações</h2>
+            <ul id="lista-entradas"></ul>
+        </div>
+    </main>
+    <footer>
+        <p>© 2023 Minhas Anotações</p>
+    </footer>
+
+    <script src="JS/script.js"></script>
+</body>
+</html>
