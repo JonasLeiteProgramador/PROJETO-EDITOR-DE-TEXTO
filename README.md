@@ -1,4 +1,4 @@
-# PROJETO-EDITOR-DE-TEXTO
+# TEXT EDITOR PROJECT
 
 My Notes - Web App
 
