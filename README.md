@@ -52,6 +52,7 @@ Este é um aplicativo web simples para fazer e gerenciar anotações. Você pode
 Demonstração
 
 Você pode experimentar a demonstração ao vivo aqui: https://minhas-anotacoes.netlify.app/.
+
 Recursos
 
     Criar novas anotações
